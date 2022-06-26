@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Afro-DE
+- 👋 Hi, I’m @Afro-DEV
 - 👀 I’m interested in software egineering/game development
 - 🌱 I’m currently learning  javascript data structures and algortihms
 - 💞️ I’m looking to collaborate on ...
