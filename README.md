@@ -5,7 +5,6 @@
 - 📫 How to reach me ...
 <h3>🌐Personal Projects🌐</h3>
 <ul> 
-  <li>Spam message sender - c#</li>
   <li>Cube Dash - 3d endless runner game made with unity <a href="https://play.google.com/store/apps/details?id=com.AfroDEV.CubeDash">See game here</a></li>
   <li>Asteroid dash - 2d asteroid dodging game made with unity  <a href="https://play.google.com/store/apps/details?id=com.AfroDEV.AsteroidRush">See game here</a></li>
   <li>Fluter World time app</li>
