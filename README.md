@@ -15,6 +15,10 @@
 <ul> 
   <li> ✅Free Code Camp Responsive web design course <a href="https://www.freecodecamp.org/certification/fcc8ce8df7b-3cd1-483a-81d0-b2e7d0188526/responsive-web-design">See certificate here</a> </li> 
 </ul>
+<h3>Technologies</h3>
+<div>
+  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="html logo" width= "40" height = "40"> 
+</div>
 <!---
 Afro-DEV/Afro-DEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
