@@ -7,7 +7,7 @@
 <body>
 <h3>🌐Personal Projects🌐</h3>
 <ul> 
-  <li>Cube Dash - 3d endless runner game made with unity <a href="https://play.google.com/store/apps/details?id=com.AfroDEV.CubeDash">See game here</a></li>
+  <li>Cube Dash - 3d endless runner game made with unity </li>
   <li>Asteroid dash - 2d asteroid dodging game made with unity  <a href="https://play.google.com/store/apps/details?id=com.AfroDEV.AsteroidRush">See game here</a></li>
   <li>Fluter World time app</li>
   <li> smoothie makers- Node auth with JWT and protected pages</li>
@@ -15,7 +15,7 @@
   </ul>
 <h3>🎓Certificates🎓</h3>
 <ul> 
-  <li> ✅Free Code Camp Responsive web design course <a href="https://www.freecodecamp.org/certification/fcc8ce8df7b-3cd1-483a-81d0-b2e7d0188526/responsive-web-design">See certificate here</a> </li> 
+  <li> ✅Free Code Camp Responsive web design course </li> 
 </ul>
 <h3>🔧 Tools and Technologies🔧</h3>
 <div>
