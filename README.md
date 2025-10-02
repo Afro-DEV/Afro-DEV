@@ -8,7 +8,7 @@
 <h3>🌐Personal Projects🌐</h3>
 <ul> 
   <li>Cube Dash - 3d endless runner game made with unity </li>
-  <li>Asteroid dash - 2d asteroid dodging game made with unity  <a href="https://play.google.com/store/apps/details?id=com.AfroDEV.AsteroidRush">See game here</a></li>
+  <li>Asteroid dash - 2d asteroid dodging game made with unity  </li>
   <li>Fluter World time app</li>
   <li> smoothie makers- Node auth with JWT and protected pages</li>
   <li>Video game guide website - mongodb and express.js</li>
